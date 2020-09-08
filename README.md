@@ -1,7 +1,7 @@
 # Project tittle: Code_Refactor_Web_accessibility
 
 ## Description and purpose:
-Web accesibity is an important element that businesses would like to focus on to increase user satisfaction. This project is to improve code refactoring skill and make an existing website more accessible.
+Web accesibity is an important element that businesses would like to focus on to increase user satisfaction. This project is to improve code refactoring skill by making an existing website more accessible.
 
 ## Changes made:
 
