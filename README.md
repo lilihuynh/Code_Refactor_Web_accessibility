@@ -11,4 +11,5 @@ Web accesibity is an important element that businesses would like to focus on to
 * Replaced more concise, descriptive title
 * Cleaned up the CSS file to make it more efficient
 
-
+## Github page link:
+https://lillianhuynh.github.io/Code_Refactor_Web_accessibility/
